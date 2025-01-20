@@ -5,7 +5,7 @@ import os
 python
 
 # Set the save directory to where your .pse file is
-save_dir = r"C:\Users\fbselee\OneDrive - University of Leeds\Documents\EZ-lab\science\data\RFdiffusion\K11-Ub2_binder\2MBO\2MBO-12.result\PSE-analysis"
+save_dir = r"put-directory-here"
 
 # Force PyMOL to run through all scenes
 for i in range(1, 12):
