@@ -4,7 +4,7 @@ import os
 
 python
 
-save_dir = r"C:\Users\fbselee\OneDrive - University of Leeds\Documents\EZ-lab\science\data\RFdiffusion\K11-Ub2_binder\2MBO\2MBO-12.result\PSE-analysis"
+save_dir = r"C:\Users\PSE-analysis"
 
 for i in range(1, 12):
     print(f"Processing scene F{i}")
